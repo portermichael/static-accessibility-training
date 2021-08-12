@@ -115,12 +115,6 @@
     grid-template-columns: 1fr;
  `;
  
- const LeftPanel = styled.div`
-     color: primaryColor;
-     border: none;
-     background-color: none;
- `;
- 
 //  const VisuallyHidden = styled.span`
 //      // this is essentially a hidden pixel
 //      position: absolute;
